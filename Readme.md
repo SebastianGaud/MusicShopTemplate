@@ -3,8 +3,8 @@
 Esercizio da fare:
 
 - Creare la Gui
-- Data l'interfaccia per ottenere, Album, Artisti e Tracce popolare con questi l'applicazione
-- Dato il player, uno volta popolato tutta la GUI se premo su una traccia questa si deve riprodurre
+- Data l'interfaccia ottenere, Album, Artisti e Tracce;  popolare con questi l'interfaccia dell'applicazione
+- Dato il player, uno volta popolata tutta la GUI se premo su una traccia questa si deve riprodurre
 
 
 > Il Servizio per ottenere le canzoni è stato scritto da *Simone Fantini*
